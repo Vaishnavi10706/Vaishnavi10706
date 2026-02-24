@@ -34,7 +34,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/vaishnavi-b1280b359/)
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Contributions
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Vaishnavi10706&show_icons=true&theme=tokyonight)
 
