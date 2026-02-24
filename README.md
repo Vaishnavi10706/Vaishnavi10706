@@ -1,7 +1,9 @@
 # Hi 👋 I'm Vaishnavi
 
 🎓 First-year Computer Science student passionate about building modern web applications.  
-💻 Aspiring Frontend Developer focused on building responsive and user-friendly web applications
+
+💻 Aspiring Frontend Developer focused on building responsive and user-friendly web applications.
+
 🌱 Currently learning React.js  
 
 ## 🛠 Skills
