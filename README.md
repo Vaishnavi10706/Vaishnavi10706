@@ -1,6 +1,6 @@
 # Hi 👋 I'm Vaishnavi
 
-🎓 First-year student  
+🎓 First-year Computer Science student passionate about building modern web applications.  
 💻 Aspiring Web Developer  
 🌱 Currently learning React.js  
 
@@ -15,7 +15,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ## 🚀 What I'm working on
-- Building frontend projects using React
+- 🚀 Currently building responsive React applications 
 - Improving problem-solving skills
 - Preparing for internships and open-source contributions
 
