@@ -34,6 +34,6 @@
 
 ## 📊 GitHub Stats
 
-![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaishnavi10706&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Vaishnavi10706&show_icons=true&theme=tokyonight)
 
 ✨ Always curious to learn and grow in tech!
