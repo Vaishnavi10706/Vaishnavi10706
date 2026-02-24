@@ -20,7 +20,9 @@
 - Preparing for internships and open-source contributions
 
 ## 📫 Connect with me
-- GitHub: https://github.com/Vaishnavi10706  
-- LinkedIn: https://www.linkedin.com/in/vaishnavi-b1280b359/
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=flat-square)](https://github.com/Vaishnavi10706)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/vaishnavi-b1280b359/)
 
 ✨ Always curious to learn and grow in tech!
