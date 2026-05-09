@@ -80,6 +80,5 @@
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Vaishnavi10706&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Vaishnavi10706&theme=tokyonight)
 
 ✨ Passionate about building impactful technology, solving real-world problems, and continuously learning through development and open source.
