@@ -1,6 +1,6 @@
 # Hi 👋 I'm Vaishnavi
 
-🎓 First-year B Tech in Computer Science (AI & ML) student at Polaris School of Technology.
+🎓 First-year B.Tech in Computer Science (AI & ML) student at Polaris School of Technology.
 
 💻 Passionate about Full-Stack Development, Data Analytics, Machine Learning, and Open Source.
 
