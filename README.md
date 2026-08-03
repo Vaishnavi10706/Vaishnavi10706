@@ -4,7 +4,7 @@
 
 💻 Software Developer passionate about building scalable full-stack applications, AI-powered tools, and data-driven solutions.
 
-🚀 Experienced in developing web applications using React, Next.js, Flask, Python, and databases like MySQL, PostgreSQL, and MongoDB.
+🚀 Experienced in developing web applications using React, Flask, Python, and databases like MySQL, PostgreSQL, and MongoDB.
 
 📊 Interested in Machine Learning, Data Analytics, Backend Systems, and Open Source Development.
 
@@ -87,7 +87,7 @@
 
 # 🌍 Open Source
 
-- Contributor at GirlScript Summer of Code (GSSoC).
+- Contributor at GirlScript Summer of Code (GSSoC) 2026.
 - Participated in open-source development through GitHub contributions.
 - Interested in developer tools, AI applications, and backend systems.
 
