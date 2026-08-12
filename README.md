@@ -4,7 +4,7 @@
 
 💻 Software Developer focused on building **full-stack applications, AI-powered tools, scalable APIs, and data-driven solutions**.
 
-🚀 I enjoy working across the stack — from designing responsive frontend interfaces to building backend APIs, databases, and machine learning systems.
+🚀 I enjoy working across the stack from designing responsive frontend interfaces to building backend APIs, databases, and machine learning systems.
 
 🌱 Currently strengthening my skills in **Data Structures & Algorithms, Backend Architecture, System Design, Machine Learning, and AI applications**.
 
@@ -188,14 +188,6 @@ I enjoy contributing to open-source projects, fixing issues, improving documenta
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Vaishnavi10706&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavi10706&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
