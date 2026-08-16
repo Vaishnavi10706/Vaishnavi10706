@@ -1,6 +1,6 @@
-# Hi 👋 I'm Vaishnavi
+# Hi 👋 I am Vaishnavi
 
-🎓 **Integrated B.Tech Computer Science (AI & ML)** student at **Polaris School of Technology**
+🎓 **Integrated B.Tech in Computer Science (AI & ML)** student at **Polaris School of Technology**
 
 💻 Software Developer focused on building **full-stack applications, AI-powered tools, scalable APIs, and data-driven solutions**.
 
