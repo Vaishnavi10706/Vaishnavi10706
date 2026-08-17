@@ -170,11 +170,15 @@ I enjoy contributing to open-source projects, fixing issues, improving documenta
 
 ---
 
-# 🧠 Coding Profiles
+## 🧠 Coding Profiles
 
 <p align="left">
-  <a href="https://github.com/Vaishnavi10706">
-    <img src="https://img.shields.io/badge/GitHub-Vaishnavi10706-181717?style=for-the-badge&logo=github"/>
+  <a href="https://www.codechef.com/users/vaishnavip25">
+    <img src="https://img.shields.io/badge/CodeChef-vaishnavip25-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  
+  <a href="https://leetcode.com/u/eiSoooTxAk/">
+    <img src="https://img.shields.io/badge/LeetCode-eiSoooTxAk-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
