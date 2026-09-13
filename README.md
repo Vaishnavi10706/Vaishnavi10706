@@ -6,7 +6,7 @@
 
 🚀 I enjoy working across the stack from designing responsive frontend interfaces to building backend APIs, databases, and machine learning systems.
 
-🌱 Currently strengthening my skills in **Data Structures & Algorithms, Backend Architecture, System Design, Machine Learning, and AI applications**.
+🌱 Currently strengthening my skills in **Data Structures & Algorithms, Full stack development, Machine Learning, and AI applications**.
 
 🌍 Passionate about **Open Source, developer tools, and building technology that solves real-world problems.**
 
@@ -164,8 +164,6 @@ I enjoy contributing to open-source projects, fixing issues, improving documenta
 * 🔌 Scalable API Design
 * 🤖 Machine Learning
 * 🧠 AI & LLM Applications
-* ☁️ Cloud & Deployment
-* 🐳 Docker & Containerization
 
 ---
 
