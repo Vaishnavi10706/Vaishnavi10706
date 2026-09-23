@@ -79,7 +79,7 @@
 
 **React • Flask • MySQL • Gemini API**
 
-An AI-powered platform designed to help users analyze and improve their resumes.
+An AI powered platform designed to help users analyze and improve their resumes.
 
 * Integrated LLM-powered resume analysis and feedback.
 * Built a full-stack architecture with authentication and database management.
@@ -92,7 +92,7 @@ An AI-powered platform designed to help users analyze and improve their resumes.
 
 **React • Flask • Python • Machine Learning • Power BI**
 
-A data-driven platform for analyzing and predicting product return behavior.
+A data driven platform for analyzing and predicting product return behavior.
 
 * Built a **Random Forest classification model** to predict product return probability.
 * Performed data preprocessing and feature engineering on retail transaction data.
@@ -105,7 +105,7 @@ A data-driven platform for analyzing and predicting product return behavior.
 
 **MySQL • Python • Machine Learning • Power BI**
 
-An end-to-end analytics project focused on understanding and predicting customer churn.
+An end to end analytics project focused on understanding and predicting customer churn.
 
 * Designed a relational database structure for customer analytics.
 * Performed data cleaning and exploratory analysis using Python.
@@ -118,7 +118,7 @@ An end-to-end analytics project focused on understanding and predicting customer
 
 **Python • Streamlit**
 
-A lightweight file-system comparison tool for identifying changes between snapshots.
+A lightweight file system comparison tool for identifying changes between snapshots.
 
 * Detects **added, deleted, and modified files**.
 * Compares directory snapshots efficiently.
@@ -157,6 +157,7 @@ I enjoy contributing to open-source projects, fixing issues, improving documenta
 
 # 📚 Currently Learning
 
+* 💻 Go Language
 * 🧩 Data Structures & Algorithms
 * 🏗️ System Design Fundamentals
 * ⚙️ Backend Architecture
