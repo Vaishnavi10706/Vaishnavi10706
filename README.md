@@ -8,7 +8,7 @@
 
 🌱 Currently strengthening my skills in **Data Structures & Algorithms, Full stack development, Machine Learning, and AI applications**.
 
-🌍 Passionate about **Open Source, developer tools, and building technology that solves real-world problems.**
+🌍 Passionate about **Open Source, developer tools, and building technology that solves real world problems.**
 
 ---
 
@@ -81,10 +81,10 @@
 
 An AI powered platform designed to help users analyze and improve their resumes.
 
-* Integrated LLM-powered resume analysis and feedback.
-* Built a full-stack architecture with authentication and database management.
+* Integrated LLM powered resume analysis and feedback.
+* Built a full stack architecture with authentication and database management.
 * Designed the application to provide actionable suggestions for improving resumes.
-* Combined AI capabilities with a user-friendly web interface.
+* Combined AI capabilities with a user friendly web interface.
 
 ---
 
@@ -123,7 +123,7 @@ A lightweight file system comparison tool for identifying changes between snapsh
 * Detects **added, deleted, and modified files**.
 * Compares directory snapshots efficiently.
 * Provides a visual interface using Streamlit.
-* Useful for monitoring file-system changes and backups.
+* Useful for monitoring file system changes and backups.
 
 ---
 
@@ -133,11 +133,11 @@ A lightweight file system comparison tool for identifying changes between snapsh
 
 A modern QR code generator built with React.
 
-* Generates QR codes from user-provided URLs or text.
+* Generates QR codes from user provided URLs or text.
 * Validates URLs using JavaScript.
 * Supports copying generated QR codes.
 * Allows users to download QR codes as images.
-* Includes persistent light/dark theme support.
+* Includes persistent light or dark theme support.
 
 ---
 
@@ -146,12 +146,12 @@ A modern QR code generator built with React.
 ### GirlScript Summer of Code 2026
 
 * Selected as a contributor for **GSSoC 2026**.
-* Contributing to open-source projects through GitHub.
+* Contributing to open source projects through GitHub.
 * Interested in improving developer tools, AI applications, and web technologies.
 
 ### GitHub Contributions
 
-I enjoy contributing to open-source projects, fixing issues, improving documentation, and building reusable components.
+I enjoy contributing to open source projects, fixing issues, improving documentation, and building reusable components.
 
 ---
 
@@ -213,10 +213,10 @@ I enjoy contributing to open-source projects, fixing issues, improving documenta
 💻 Build → 🤖 Experiment → 📊 Analyze → 🚀 Deploy → 🌍 Contribute
 ```
 
-I believe in learning by building and continuously improving through real-world projects and open-source contributions.
+I believe in learning by building and continuously improving through real world projects and open source contributions.
 
 ---
 
 <h3 align="center">
-  ✨ Building technology that solves real-world problems through Software Engineering, AI & Data.
+  ✨ Building technology that solves real world problems through Software Engineering, AI & Data.
 </h3>
